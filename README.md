@@ -12,6 +12,7 @@
   <img align="center" alt="Samuel-Sqlite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Samuel-AndroidStudio" height="30" width="150" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img align="center" alt="Samuel-Android" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+   <img align="right" alt="Bootcamp-pic" height="150" style="border-radius:50px;" src="https://hermes.digitalinnovation.one/tracks/87136efb-f048-4304-81c4-f21a7654920b.png">
   </div>
 
 ##
