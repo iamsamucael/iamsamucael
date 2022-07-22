@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Samuel Araujo
 
 <div align="center">
-  
+  <a href="https://github.com/iamsamucael">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsamucael&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsamucael&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
@@ -12,7 +12,8 @@
   <img align="center" alt="Samuel-Sqlite" height="30" width="100" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img align="center" alt="Samuel-AndroidStudio" height="30" width="150" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img align="center" alt="Samuel-Android" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-   <img align="right" alt="Bootcamp-pic" height="150" style="border-radius:50px;" src="https://hermes.digitalinnovation.one/tracks/87136efb-f048-4304-81c4-f21a7654920b.png" href="https://www.dio.me/certificate/58C4A5C2">
+   <a href="https://www.dio.me/certificate/58C4A5C2">
+   <img align="right" alt="Bootcamp-pic" height="150" style="border-radius:50px;" src="https://hermes.digitalinnovation.one/tracks/87136efb-f048-4304-81c4-f21a7654920b.png">
   </div>
 
 ##
